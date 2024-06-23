@@ -1,0 +1,41 @@
+# Ignore IntelliJ IDEA project files
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# macOS system file
+.DS_Store
+
+# Ignore build directories
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Android Studio files
+.idea/
+*.iml
+
+# Miscellaneous
+*.log
+*.swp
+*~
+.generated/
+.workspace
+.project
+.cache/
+.metadata/
+.java/
+.java-deps/
+.asset-cache/
+.ipynb_checkpoints/
+.classpath
+.externalToolBuilders/
+.settings/
+out/
